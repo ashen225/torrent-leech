@@ -3,7 +3,7 @@ from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'මාව පාලනය කරන්න පුළුවන් මම හදපු කෙනාට විතරයි.\nඒ හින්ද මම මේ chat එකේ දි වැඩ නෑ.\nචැට් id -: <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "Hi!\nමම <b>ART OF TECH LEECHER</b> බොට් !\nPowered by @Art_of_tech.",
+    'WELCOME_MESSAGE' : "Hi!\nමම <b>Ⓜ️⭕️VIE ¯\_(ツ)_/¯️ HU🅱️</b> බොට් !\nPowered by @Movie_Universe_Channel.",
     'PASS_REQUIRED' : '\n\n<code>/pass</code> ගහලා bot ගෙ password එක දෙන්න.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
